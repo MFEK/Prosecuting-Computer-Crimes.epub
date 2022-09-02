@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">c390b410-4362-482d-812a-c821ee211dad</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c390b410-4362-482d-812a-c821ee211dad</dc:identifier>
+        <dc:title>Prosecuting Computer Crimes</dc:title>
+        <dc:creator opf:file-as="H. Marshall Jarrett, Michael W. Bailie, Ed Hagen, Scott Eltringham" opf:role="aut">H. Marshall Jarrett, Michael W. Bailie, Ed Hagen, Scott Eltringham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-06T19:12:16+00:00</dc:date>
+        <dc:publisher>Office of Legal Education, Executive Office for United States Attorneys, United States Department of Justice</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
