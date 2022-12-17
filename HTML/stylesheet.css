@@ -1,0 +1,2530 @@
+.block_, .block_7 {
+  font-family: "EB Garamond 12";
+  display: inline-block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: right;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_1 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  text-align: right;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_2 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-indent: -0.5pt;
+  margin: 0 1.15pt 2.35pt 1.25pt;
+  padding: 0;
+}
+.block_3 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  line-height: 1.2;
+  text-indent: -0.5pt;
+  margin: 12pt 1.15pt 2.35pt 1.25pt;
+  padding: 0;
+}
+.block_4 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 1.15pt 0.2pt 1.25pt;
+  padding: 0;
+}
+.block_5 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  line-height: 1.2;
+  text-indent: -0.5pt;
+  margin: 0 1.15pt 2.35pt 1.25pt;
+  padding: 0;
+}
+.block_6 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: right;
+  text-indent: -0.5pt;
+  margin: 0 0.05pt 0 0.5pt;
+  padding: 0;
+}
+.block_7::after {
+  content: " — ";
+}
+.block_8 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 17.3pt;
+  margin: 6pt 0;
+  padding: 0 0 1pt;
+  border-bottom: currentColor solid 1pt;
+}
+.block_9 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 17.3pt;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_10 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 17.3pt;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_11 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 17.3pt;
+  margin: 0;
+  padding: 0;
+}
+.block_12 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: right;
+  text-indent: -0.5pt;
+  margin: 0 0.05pt 4.75pt 0.5pt;
+  padding: 0;
+}
+.block_13 {
+  display: list-item;
+  line-height: 1.2;
+  margin-bottom: 6pt;
+  margin-left: 53.3pt;
+  margin-top: 6pt;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+}
+.block_14 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0 0 -0.25pt;
+  padding: 0;
+}
+.block_15 {
+  display: block;
+  font-size: 0.83333em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0 0 5.4pt;
+  padding: 0;
+}
+.block_16 {
+  display: block;
+  font-size: 0.83333em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_17 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0 0 5.4pt;
+  padding: 0;
+}
+.block_18 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_19 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 12pt;
+  padding: 0;
+}
+.block_20 {
+  font-family: "EB Garamond 12";
+  display: block;
+  font-size: 1.29167em;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: left;
+  text-indent: 0;
+  margin: 18pt 0 6pt;
+  padding: 0;
+}
+.block_21 {
+  font-family: "EB Garamond 12";
+  display: block;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-indent: 0;
+  margin: 12pt 0 6pt 17.3pt;
+  padding: 0;
+}
+.block_22 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0 6pt 36pt;
+  padding: 0;
+}
+.block_23, .block_111 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_24 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 17.3pt;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_25 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 1.29167em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-align: left;
+  text-indent: 0;
+  margin: 18pt 0 6pt;
+  padding: 0;
+}
+.block_26 {
+  display: block;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_27 {
+  display: block;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 17.3pt;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_28 {
+  display: block;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0 6pt 36pt;
+  padding: 0;
+}
+.block_29 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-indent: 0;
+  margin: 12pt 0 6pt 17.3pt;
+  padding: 0;
+}
+.block_30 {
+  display: block;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0 6pt 17.3pt;
+  padding: 0;
+}
+.block_31 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 17.3pt;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_32 {
+  display: list-item;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  margin-bottom: 6pt;
+  margin-left: 53.3pt;
+  margin-top: 6pt;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+}
+.block_33 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-indent: 0;
+  margin: 0 0 5.7pt -0.7pt;
+  padding: 0;
+}
+.block_34 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_35 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0 6pt 17.3pt;
+  padding: 0;
+}
+.block_36 {
+  display: block;
+  font-size: 0.83333em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0 0 -0.25pt;
+  padding: 0;
+}
+.block_37 {
+  display: block;
+  font-size: 0.83333em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  margin: 0 2.5pt 0 0;
+  padding: 0;
+}
+.block_38 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0 0 6pt;
+  padding: 0;
+}
+.block_39 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_40 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0 3.5pt;
+  padding: 0;
+}
+.block_41 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0 4pt;
+  padding: 0;
+}
+.block_42 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0 6pt 36pt;
+  padding: 0;
+}
+.block_43 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 17.4pt 5.75pt 18.5pt;
+  padding: 0;
+}
+.block_44 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_45 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 17.5pt;
+  margin: 0 0 5.6pt;
+  padding: 0;
+}
+.block_46 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_47 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 17.4pt 5.75pt 18.5pt;
+  padding: 0;
+}
+.block_48 {
+  display: block;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 17.4pt 8.65pt 18.5pt;
+  padding: 0;
+}
+.block_49 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0 6pt 17.3pt;
+  padding: 0;
+}
+.block_50 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0 6pt 36pt;
+  padding: 0;
+}
+.block_51 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0 6pt 17.3pt;
+  padding: 0;
+}
+.block_52 {
+  display: list-item;
+  line-height: 1.2;
+  margin-bottom: 6pt;
+  margin-left: 35.3pt;
+  margin-top: 6pt;
+  padding-bottom: 0;
+  padding-top: 0;
+  text-align: justify;
+}
+.block_53 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_54 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-indent: 0;
+  margin: 12pt 0 6pt 17.3pt;
+  padding: 0;
+}
+.block_55 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-indent: 0;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_56 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  text-align: center;
+  text-indent: 0;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_57 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_58 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 24.7pt 0 0;
+  padding: 0;
+}
+.block_59 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0.85pt 0 0;
+  padding: 0;
+}
+.block_60 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 2.55pt 0 0;
+  padding: 0;
+}
+.block_61 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 16.1pt 0 0;
+  padding: 0;
+}
+.block_62 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 1.25pt 0 0;
+  padding: 0;
+}
+.block_63 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 2.1pt 0 0;
+  padding: 0;
+}
+.block_64 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 1.5pt 0 0;
+  padding: 0;
+}
+.block_65 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 12.6pt 0 0;
+  padding: 0;
+}
+.block_66 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0.55pt 0 0;
+  padding: 0;
+}
+.block_67 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 7.55pt 0 0;
+  padding: 0;
+}
+.block_68 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_69 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 1.35pt 0 0;
+  padding: 0;
+}
+.block_70 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 27.9pt 0 0;
+  padding: 0;
+}
+.block_71 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0.15pt 0 0;
+  padding: 0;
+}
+.block_72 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 25.9pt 0 0;
+  padding: 0;
+}
+.block_73 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 33.9pt 0 0;
+  padding: 0;
+}
+.block_74 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 52pt 0 0;
+  padding: 0;
+}
+.block_75 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 11.3pt 0 0;
+  padding: 0;
+}
+.block_76 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 31.9pt 0 0;
+  padding: 0;
+}
+.block_77 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 6.5pt 0 0;
+  padding: 0;
+}
+.block_78 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 13pt 0 0;
+  padding: 0;
+}
+.block_79 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0 8pt;
+  padding: 0;
+}
+.block_81 {
+  display: block;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0.05pt 0 0;
+  padding: 0;
+}
+.block_83 {
+  display: block;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-indent: 0;
+  margin: 12pt 0 6pt;
+  padding: 0;
+}
+.block_84 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.6pt 0 0;
+  padding: 0;
+}
+.block_85 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.6pt 0.2pt 0;
+  padding: 0;
+}
+.block_86 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.6pt 9.25pt 0;
+  padding: 0;
+}
+.block_87, .block_93 {
+  display: block;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-indent: 0;
+  margin: 12pt 0 0;
+  padding: 0;
+}
+.block_88 {
+  display: block;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-indent: 0;
+  margin: 0 0 6pt;
+  padding: 0;
+}
+.block_89 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.55pt 0.45pt 0;
+  padding: 0;
+}
+.block_90 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.55pt 5.65pt 0;
+  padding: 0;
+}
+.block_91 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.55pt 0 0;
+  padding: 0;
+}
+.block_92 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.55pt 6.25pt 0;
+  padding: 0;
+}
+.block_94 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.25pt 0.15pt 0;
+  padding: 0;
+}
+.block_95 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.25pt 0.1pt 0;
+  padding: 0;
+}
+.block_96 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.25pt 7.15pt 0;
+  padding: 0;
+}
+.block_97 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.25pt 8.75pt 0;
+  padding: 0;
+}
+.block_98 {
+  display: table-row;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 2.95pt;
+  padding: 0;
+}
+.block_99 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 2.95pt;
+  padding: 0;
+}
+.block_100 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 3pt;
+  padding: 0;
+}
+.block_101 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 2.9pt;
+  padding: 0;
+}
+.block_102 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 8.65pt;
+  padding: 0;
+}
+.block_103 {
+  display: block;
+  font-weight: bold;
+  line-height: 1.2;
+  text-indent: 0;
+  margin: 12pt 0 0;
+  padding: 0;
+}
+.block_104 {
+  display: block;
+  font-weight: bold;
+  line-height: 1.2;
+  page-break-after: avoid;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_105 {
+  display: table-row;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.25pt 5.6pt 0;
+  padding: 0;
+}
+.block_106 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 0.15pt;
+  padding: 0;
+}
+.block_107 {
+  display: table-row;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 0.15pt;
+  padding: 0;
+}
+.block_108 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 0.45pt;
+  padding: 0;
+}
+.block_109 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+.block_110 {
+  display: table-row;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 0.15pt;
+  padding: 0;
+}
+.block_112 {
+  display: table-row;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 0.15pt;
+  padding: 0;
+}
+.block_113 {
+  display: table-row;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.6pt 10.8pt 0;
+  padding: 0;
+}
+.block_114 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.6pt 0.15pt 0;
+  padding: 0;
+}
+.block_115 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 9.3pt;
+  padding: 0;
+}
+.block_116 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 17.5pt;
+  margin: 0 0 5.6pt;
+  padding: 0;
+}
+.block_117 {
+  display: block;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0;
+  padding: 0;
+}
+.block_118 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0 0.15pt -0.25pt;
+  padding: 0;
+}
+.block_119 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 3.5pt;
+  padding: 0;
+}
+.block_120 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 3.1pt;
+  padding: 0;
+}
+.block_121 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0 3.05pt;
+  padding: 0;
+}
+.block_122 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.6pt 0.45pt 0;
+  padding: 0;
+}
+.block_123 {
+  display: table-row;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0 0.6pt 6.25pt 0;
+  padding: 0;
+}
+.block_124 {
+  display: block;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 0 0.25pt;
+  padding: 0;
+}
+.block_125 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 0.1pt;
+  padding: 0;
+}
+.block_126 {
+  display: block;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0;
+  padding: 0;
+}
+.block_127 {
+  display: block;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0 6pt;
+  padding: 0;
+}
+.block_128 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 5.6pt;
+  padding: 0;
+}
+.block_129 {
+  display: block;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0 6.25pt;
+  padding: 0;
+}
+.block_130 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 8.55pt;
+  padding: 0;
+}
+.block_131 {
+  display: block;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0 0.45pt;
+  padding: 0;
+}
+.block_132 {
+  display: block;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0 12.6pt;
+  padding: 0;
+}
+.block_133 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0;
+  padding: 0;
+}
+.block_134 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 0 8.7pt;
+  padding: 0;
+}
+.block_135 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_136 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 0 5.75pt;
+  padding: 0;
+}
+.block_137 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 22.4pt;
+  padding: 0;
+}
+.block_138 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0.5pt 8.55pt -0.7pt;
+  padding: 0;
+}
+.block_139 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0.5pt 8.6pt -0.7pt;
+  padding: 0;
+}
+.block_140, .block_141 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0.5pt 5.6pt -0.7pt;
+  padding: 0;
+}
+.block_142 {
+  display: block;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0.6pt 0.45pt -0.25pt;
+  padding: 0;
+}
+.block_143 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0.5pt 0.1pt -0.7pt;
+  padding: 0;
+}
+.block_144 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0.5pt 0 -0.7pt;
+  padding: 0;
+}
+.block_145 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 17.4pt 0.25pt -0.2pt;
+  padding: 0;
+}
+.block_146 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0.5pt 0 0;
+  padding: 0;
+}
+.block_147 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0.5pt 8.5pt -0.7pt;
+  padding: 0;
+}
+.block_148 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 0 0 -0.2pt;
+  padding: 0;
+}
+.block_149 {
+  display: block;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0.6pt 0.45pt 0;
+  padding: 0;
+}
+.block_150 {
+  display: block;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0.6pt 0.45pt -0.75pt;
+  padding: 0;
+}
+.block_151 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0.5pt 0.1pt -0.7pt;
+  padding: 0;
+}
+.block_152 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0.5pt 8.5pt -0.7pt;
+  padding: 0;
+}
+.block_153 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 17.5pt;
+  margin: 0 0.5pt 0 -0.7pt;
+  padding: 0;
+}
+.heading0 {
+  font-family: "EB Garamond 12", serif;
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
+.block_155 {
+  font-family: "EB Garamond 12", serif;
+  display: block;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0.05pt 4.45pt -0.2pt;
+  padding: 0;
+}
+.block_156 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 0 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_157 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 0.2pt 28.8pt;
+  padding: 0;
+}
+.block_158 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 0.2pt;
+  padding: 0;
+}
+.block_159 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 10.9pt 28.8pt;
+  padding: 0;
+}
+.block_160 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 54.8pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_161 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 54.8pt 0.2pt 28.8pt;
+  padding: 0;
+}
+.block_162 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 28.7pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_163 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 28.7pt 0.2pt 28.8pt;
+  padding: 0;
+}
+.block_164 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 45.4pt 0.15pt -0.25pt;
+  padding: 0;
+}
+.block_165 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 0.15pt 28.8pt;
+  padding: 0;
+}
+.block_166 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 8.45pt 28.8pt;
+  padding: 0;
+}
+.block_167 {
+  display: block;
+  font-size: 0.83333em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0 6.7pt;
+  padding: 0;
+}
+.block_168 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 40.6pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_169 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 11.7pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_170 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 0 28.8pt;
+  padding: 0;
+}
+.block_171 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 2.25pt 0 0.5pt;
+  padding: 0;
+}
+.block_172 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 17.4pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_173 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 0 10.9pt -0.25pt;
+  padding: 0;
+}
+.block_174 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 22.8pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_175 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.69;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 0.2pt 28.8pt;
+  padding: 0;
+}
+.block_176 {
+  display: block;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 4.5pt;
+  padding: 0;
+}
+.block_177 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 44.5pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_178 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 41pt 0.2pt 0;
+  padding: 0;
+}
+.block_179 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 39.5pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_180 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 0 0.2pt 28.8pt;
+  padding: 0;
+}
+.block_181 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 35.9pt 0.2pt 0;
+  padding: 0;
+}
+.block_182 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 0 0.2pt -0.7pt;
+  padding: 0;
+}
+.block_183 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_184 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 40.1pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_185 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 0 0.15pt -0.25pt;
+  padding: 0;
+}
+.block_186 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 107pt 0.2pt 0;
+  padding: 0;
+}
+.block_187 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: -0.5pt;
+  margin: 0 38.1pt 11.6pt -0.25pt;
+  padding: 0;
+}
+.block_188 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0 0 28.8pt;
+  padding: 0;
+}
+.block_189 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0 11.6pt 28.8pt;
+  padding: 0;
+}
+.block_190 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 50.1pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_191 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 46.4pt 0.2pt 0;
+  padding: 0;
+}
+.block_192 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: -0.5pt;
+  margin: 0 33.8pt 0.2pt -0.25pt;
+  padding: 0;
+}
+.block_193 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 0 0.2pt 28.8pt;
+  padding: 0;
+}
+.block_194 {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0 34.2pt 0.2pt 0;
+  padding: 0;
+}
+.block_196 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 0 0.1pt 0 0;
+  padding: 0;
+}
+.block_197 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+.block_198 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: 17.5pt;
+  margin: 0;
+  padding: 0;
+}
+.block_200 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  margin: 0 0.05pt 0 0;
+  padding: 0;
+}
+.block_201 {
+  display: block;
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  margin: 6pt 0;
+  padding: 0;
+}
+.bullet_ {
+  display: table-cell;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.bullet_1 {
+  background-color: transparent;
+  display: table-cell;
+  font-size: 1em;
+  line-height: 1.2;
+  text-decoration: none;
+  padding: 0;
+  border: currentColor none 1pt;
+}
+.bullet_2 {
+  background-color: transparent;
+  display: table-cell;
+  font-size: 1.2em;
+  line-height: 1.2;
+  text-decoration: none;
+  padding: 0;
+  border: currentColor none 1pt;
+}
+.calibre {
+  display: block;
+  font-family: "EB Garamond 12", serif;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1, .text_5 {
+  line-height: 1.2;
+  text-decoration: none;
+}
+.calibre2, .text_6, .text_7 {
+  font-style: italic;
+  line-height: 1.2;
+}
+.calibre3 {
+  display: table-row-group;
+  vertical-align: middle;
+}
+.calibre4 {
+  display: table-row;
+  vertical-align: inherit;
+}
+.calibre5 {
+  line-height: 1.2;
+  white-space: pre-wrap;
+}
+.calibre6 {
+  font-size: 0.9em;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre7 {
+  height: 115pt;
+  line-height: 1.2;
+  width: 148pt;
+}
+.calibre8, .text_11, .text_22 {
+  font-weight: bold;
+  line-height: 1.2;
+}
+.calibre9 {
+  height: 235pt;
+  line-height: 1.2;
+  width: 142pt;
+}
+.calibre10 {
+  height: 79.2pt;
+  line-height: 1.2;
+  width: 130pt;
+}
+.calibre11 {
+  height: 97.8pt;
+  line-height: 1.2;
+  width: 127pt;
+}
+.calibre12 {
+  height: 247pt;
+  line-height: 1.2;
+  width: 289pt;
+}
+.calibre13 {
+  height: 133pt;
+  line-height: 1.2;
+  width: 138pt;
+}
+.calibre14 {
+  height: 115pt;
+  line-height: 1.2;
+  width: 142pt;
+}
+.calibre15 {
+  height: 151pt;
+  line-height: 1.2;
+  width: 137pt;
+}
+.calibre16 {
+  display: table;
+  margin: 0;
+  padding: 0 0 0 54pt;
+}
+.calibre17 {
+  display: table-cell;
+  line-height: 1.2;
+}
+.calibre18 {
+  height: 93pt;
+  line-height: 1.2;
+  width: 129pt;
+}
+.calibre19 {
+  height: 79.8pt;
+  line-height: 1.2;
+  width: 133pt;
+}
+.calibre20 {
+  font-size: 0.75em;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre21 {
+  height: 82.2pt;
+  line-height: 1.2;
+  width: 138pt;
+}
+.calibre22 {
+  height: 312pt;
+  line-height: 1.2;
+  width: 250pt;
+}
+.calibre23 {
+  height: 392pt;
+  line-height: 1.2;
+  width: 154pt;
+}
+.calibre24 {
+  height: 124pt;
+  line-height: 1.2;
+  width: 262pt;
+}
+.calibre25 {
+  height: 112pt;
+  line-height: 1.2;
+  width: 267pt;
+}
+.calibre26 {
+  display: table;
+  margin: 0;
+  padding: 0 0 0 36pt;
+}
+.calibre27 {
+  display: table;
+  margin: 0;
+  padding: 0 0 0 35.3pt;
+}
+.calibre28 {
+  display: table;
+  margin: 0;
+  padding: 0 0 0 35.6pt;
+}
+.calibre29 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre30 {
+  font-style: italic;
+}
+.calibre31 {
+  display: block;
+  font-size: 1.29167em;
+  line-height: 1.2;
+}
+.calibre32 {
+  display: block;
+  margin-left: 40px;
+}
+.calibre33 {
+  font-size: 0.83333em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.footnote {
+  display: block;
+  margin: 1em 0;
+}
+.footnote1 {
+  display: block;
+  page-break-after: avoid;
+  margin: 1em 0;
+}
+.list_ {
+  display: block;
+  list-style-type: disc;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  padding-top: 0;
+}
+.list_1 {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  padding-top: 0;
+}
+.noteref {
+  text-decoration: none;
+}
+.notes-header {
+  display: block;
+  font-size: 1em;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+.table_ {
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-top: 0;
+  text-indent: 0;
+  width: 100%;
+}
+.table_1 {
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-top: 0;
+  text-indent: 0;
+  width: 360pt;
+}
+.table_2 {
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-top: 0;
+  text-indent: 0;
+}
+.td_ {
+  border-left-style: hidden;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 71.7%;
+  padding: 0 4.35pt 0 0;
+  border-top: currentColor solid 1.5pt;
+  border-bottom: currentColor solid 1pt;
+}
+.td_1 {
+  border-left-style: none;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 11.8%;
+  padding: 0 4.35pt 0 0;
+  border-top: currentColor solid 1.5pt;
+  border-bottom: currentColor solid 1pt;
+}
+.td_2 {
+  border-left-style: none;
+  border-right-style: hidden;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 16.5%;
+  padding: 0 4.35pt 0 0;
+  border-top: currentColor solid 1.5pt;
+  border-bottom: currentColor solid 1pt;
+}
+.td_3 {
+  border-left-style: hidden;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 71.7%;
+  padding: 0 4.35pt 0 0;
+  border-top: currentColor solid 1pt;
+  border-bottom: #C5BCB5 solid 1pt;
+}
+.td_4 {
+  border-left-style: none;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 11.8%;
+  padding: 0 4.35pt 0 0;
+  border-top: currentColor solid 1pt;
+  border-bottom: #C5BCB5 solid 1pt;
+}
+.td_5 {
+  border-left-style: none;
+  border-right-style: hidden;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 16.5%;
+  padding: 0 4.35pt 0 0;
+  border-top: currentColor solid 1pt;
+  border-bottom: #C5BCB5 solid 1pt;
+}
+.td_6 {
+  border-left-style: hidden;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 71.7%;
+  padding: 0 4.35pt 0 0;
+  border-top: #C5BCB5 solid 1pt;
+  border-bottom: #9E948D solid 1pt;
+}
+.td_7 {
+  border-left-style: none;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 11.8%;
+  padding: 0 4.35pt 0 0;
+  border-top: #C5BCB5 solid 1pt;
+  border-bottom: #9E948D solid 1pt;
+}
+.td_8 {
+  border-left-style: none;
+  border-right-style: hidden;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 16.5%;
+  padding: 0 4.35pt 0 0;
+  border-top: #C5BCB5 solid 1pt;
+  border-bottom: #9E948D solid 1pt;
+}
+.td_9 {
+  border-left-style: hidden;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 71.7%;
+  padding: 0 4.35pt 0 0;
+  border-top: #9E948D solid 1pt;
+  border-bottom: #9E948D solid 1pt;
+}
+.td_10 {
+  border-left-style: none;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 11.8%;
+  padding: 0 4.35pt 0 0;
+  border-top: #9E948D solid 1pt;
+  border-bottom: #9E948D solid 1pt;
+}
+.td_11 {
+  border-left-style: none;
+  border-right-style: hidden;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 16.5%;
+  padding: 0 4.35pt 0 0;
+  border-top: #9E948D solid 1pt;
+  border-bottom: #9E948D solid 1pt;
+}
+.td_12 {
+  border-left-style: hidden;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 71.7%;
+  padding: 0 4.35pt 0 0;
+  border-top: #9E948D solid 1pt;
+  border-bottom: #C5BCB5 solid 1pt;
+}
+.td_13 {
+  border-left-style: none;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 11.8%;
+  padding: 0 4.35pt 0 0;
+  border-top: #9E948D solid 1pt;
+  border-bottom: #C5BCB5 solid 1pt;
+}
+.td_14 {
+  border-left-style: none;
+  border-right-style: hidden;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 16.5%;
+  padding: 0 4.35pt 0 0;
+  border-top: #9E948D solid 1pt;
+  border-bottom: #C5BCB5 solid 1pt;
+}
+.td_15 {
+  border-left-style: hidden;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 71.7%;
+  padding: 0 4.35pt 0 0;
+  border-top: #C5BCB5 solid 1pt;
+  border-bottom: currentColor solid 1.5pt;
+}
+.td_16 {
+  border-left-style: none;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 11.8%;
+  padding: 0 4.35pt 0 0;
+  border-top: #C5BCB5 solid 1pt;
+  border-bottom: currentColor solid 1.5pt;
+}
+.td_17 {
+  border-left-style: none;
+  border-right-style: hidden;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 16.5%;
+  padding: 0 4.35pt 0 0;
+  border-top: #C5BCB5 solid 1pt;
+  border-bottom: currentColor solid 1.5pt;
+}
+.td_18 {
+  border-left-style: hidden;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 99.5pt;
+  padding: 0 3.5pt 0 0;
+  border-top: currentColor solid 1.5pt;
+  border-bottom: currentColor solid 1pt;
+}
+.td_19 {
+  border-left-style: none;
+  border-right-style: hidden;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 260pt;
+  padding: 0 3.5pt 0 0;
+  border-top: currentColor solid 1.5pt;
+  border-bottom: currentColor solid 1pt;
+}
+.td_20 {
+  border-bottom-style: none;
+  border-left-style: hidden;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 99.5pt;
+  padding: 0 3.5pt 0.5ex 0;
+  border-top: currentColor solid 1pt;
+}
+.td_21 {
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: hidden;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 260pt;
+  padding: 0 3.5pt 0.5ex 0;
+  border-top: currentColor solid 1pt;
+}
+.td_22 {
+  border-left-style: hidden;
+  border-right-style: none;
+  border-top-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 99.5pt;
+  padding: 0.5ex 3.5pt 0 0;
+  border-bottom: #847B75 solid 1pt;
+}
+.td_23 {
+  border-left-style: none;
+  border-right-style: hidden;
+  border-top-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 260pt;
+  padding: 0.5ex 3.5pt 0 0;
+  border-bottom: #847B75 solid 1pt;
+}
+.td_24 {
+  border-bottom-style: none;
+  border-left-style: hidden;
+  border-right-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 99.5pt;
+  padding: 0 3.5pt 0.5ex 0;
+  border-top: #847B75 solid 1pt;
+}
+.td_25 {
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: hidden;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 260pt;
+  padding: 0 3.5pt 0.5ex 0;
+  border-top: #847B75 solid 1pt;
+}
+.td_26 {
+  border-left-style: hidden;
+  border-right-style: none;
+  border-top-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 99.5pt;
+  padding: 0.5ex 3.5pt 0 0;
+  border-bottom: currentColor solid 1.5pt;
+}
+.td_27 {
+  border-left-style: none;
+  border-right-style: hidden;
+  border-top-style: none;
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 260pt;
+  padding: 0.5ex 3.5pt 0 0;
+  border-bottom: currentColor solid 1.5pt;
+}
+.td_28 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  padding: 0;
+  border-top: currentColor solid 1.5pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.td_29 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: bottom;
+  padding: 0;
+  border-top: currentColor solid 1.5pt;
+  border-right: currentColor solid 1pt;
+  border-bottom: currentColor solid 1pt;
+  border-left: currentColor solid 1pt;
+}
+.td_30 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: bottom;
+  padding: 0;
+  border: currentColor solid 1pt;
+}
+.td_31 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  padding: 0;
+  border: currentColor solid 1pt;
+}
+.text_ {
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 1em;
+  line-height: 1.2;
+}
+.text_1 {
+  color: #0563C1;
+  font-family: "Gillius ADF No2", sans-serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+.text_2 {
+  color: #0563C1;
+  font-weight: bold;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+.text_3 {
+  color: #0563C1;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+.text_4, .text_20 {
+  line-height: 1.2;
+}
+.text_8, .text_27, .text_29 {
+  font-size: 1.2em;
+  line-height: 1.2;
+}
+.text_9, .text_24, .text_26 {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+}
+.text_10, .text_28, .text_45 {
+  font-size: 1em;
+  line-height: 1.2;
+}
+.text_12 {
+  font-style: italic;
+  line-height: 1.2;
+  text-decoration: none;
+}
+.text_13 {
+  font-family: "EB Garamond 12", serif;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.text_14 {
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-weight: bold;
+  line-height: 1.2;
+}
+.text_15, .text_23, .text_34 {
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.text_16, .text_18 {
+  font-family: "EB Garamond 12", serif;
+  line-height: 1.2;
+}
+.text_17, .text_19 {
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-style: italic;
+  line-height: 1.2;
+}
+.text_21 {
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  line-height: 1.2;
+}
+.text_25 {
+  font-size: 1em;
+  font-style: italic;
+  line-height: 1.2;
+}
+.text_30 {
+  font-size: 1.2em;
+  line-height: 1.2;
+  text-decoration: none;
+}
+.text_31 {
+  font-size: 1em;
+  line-height: 1.2;
+  text-decoration: none;
+}
+.text_32 {
+  font-family: "EB Garamond 12", serif;
+  font-style: italic;
+  line-height: 1.2;
+}
+.text_33, .text_51, .text_52 {
+  font-size: 0.9em;
+}
+.text_35, .text_57 {
+  font-family: "EB Garamond 12", serif;
+  font-size: 1.2em;
+  line-height: 1.2;
+}
+.text_36 {
+  font-family: Cantarell, sans-serif;
+  font-size: 0.9em;
+}
+.text_37, .text_39 {
+  font-family: "EB Garamond 12", serif;
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+}
+.text_38, .text_40, .text_41 {
+  font-family: Cantarell, sans-serif;
+  font-size: 0.9em;
+  font-style: italic;
+}
+.text_42 {
+  font-family: "EB Garamond 12", serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.text_43 {
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.text_44 {
+  font-family: "EB Garamond 12", serif;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.text_46 {
+  font-family: "EB Garamond 12", serif;
+  font-size: 1em;
+  line-height: 1.2;
+}
+.text_47 {
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 1.2em;
+  line-height: 1.2;
+}
+.text_48 {
+  color: currentColor;
+  line-height: 1.2;
+  text-decoration: none;
+}
+.text_49 {
+  color: currentColor;
+  line-height: 1.2;
+}
+.text_54, .text_56 {
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 0.9em;
+}
+.text_55, .text_58 {
+  font-weight: normal;
+  font-family: "EB Garamond 12";
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+}
+.text_59 {
+  font-family: "EB Garamond 12", serif;
+  font-size: 1.2em;
+  line-height: 1.2;
+  text-decoration: none;
+}
+a {
+ color: #000080; 
+}

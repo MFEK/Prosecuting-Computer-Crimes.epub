@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "Gillius ADF No2";
+  font-weight: bold;
+  src: url(fonts/GilliusADFNo2-Bold.otf);
+}
+@font-face {
+  font-family: "Gillius ADF No2";
+  src: url(fonts/GilliusADFNo2-Regular.otf);
+}
+@font-face {
+  font-family: "Gillius ADF No2";
+  font-style: italic;
+  src: url(fonts/GilliusADFNo2-Italic.otf);
+}
+@font-face {
+  font-family: "Cantarell";
+  src: url(fonts/Cantarell-Regular.otf);
+}
+@font-face {
+  font-family: "Cantarell";
+  font-style: italic;
+  src: url(fonts/Cantarell-Regular.otf);
+}
+@font-face {
+  font-family: "EB Garamond 12";
+  src: url(fonts/EB-Garamond-12-Regular.otf);
+}
+@font-face {
+  font-family: "EB Garamond 12";
+  font-style: italic;
+  src: url(fonts/EB-Garamond-12-Italic.otf);
+}
+@font-face {
+  font-family: "EB Garamond 12";
+  font-weight: bold;
+  src: url(fonts/EB-Garamond-12-Bold.otf);
+}

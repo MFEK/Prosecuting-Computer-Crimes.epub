@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="c1f990a7-2dd9-4420-bf66-c5f367338cec"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.36.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Prosecuting Computer Crimes</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>Preface and Acknowledgements</text>
+      </navLabel>
+      <content src="index_split_001.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>Chapter 1:</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3" class="chapter">
+      <navLabel>
+        <text>Computer Fraud and Abuse Act</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270592"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4" class="chapter">
+      <navLabel>
+        <text>A. Key Definitions</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270593"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5" class="chapter">
+      <navLabel>
+        <text>B. Obtaining National Security Information: 18 U.S.C. § 1030(a)(1)</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270594"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6" class="chapter">
+      <navLabel>
+        <text>C. Accessing a Computer and Obtaining Information: 18 U.S.C. § 1030(a)(2)</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270595"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7" class="chapter">
+      <navLabel>
+        <text>D. Trespassing in a Government Computer: 18 U.S.C. § 1030(a)(3)</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270596"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8" class="chapter">
+      <navLabel>
+        <text>E. Accessing to Defraud and Obtain Value: 18 U.S.C. § 1030(a)(4)</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270597"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9" class="chapter">
+      <navLabel>
+        <text>F. Damaging a Computer or Information: 18 U.S.C. § 1030(a)(5)</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270598"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10" class="chapter">
+      <navLabel>
+        <text>G. Trafficking in Passwords: 18 U.S.C. § 1030(a)(6)</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270599"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11" class="chapter">
+      <navLabel>
+        <text>H. Threatening to Damage a Computer: 18 U.S.C. § 1030(a)(7)</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270600"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12" class="chapter">
+      <navLabel>
+        <text>I. Attempt and Conspiracy: 18 U.S.C. § 1030(b)</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270601"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13" class="chapter">
+      <navLabel>
+        <text>J. Forfeiture: 18 U.S.C. § 1030(i) &amp; (j)</text>
+      </navLabel>
+      <content src="index_split_002.html#id_Toc109270602"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14" class="chapter">
+      <navLabel>
+        <text>Chapter 2:</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15" class="chapter">
+      <navLabel>
+        <text>Wiretap Act</text>
+      </navLabel>
+      <content src="index_split_003.html#id_Toc109270604"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16" class="chapter">
+      <navLabel>
+        <text>A. Intercepting a Communication: 18 U.S.C. § 2511(1)(a)</text>
+      </navLabel>
+      <content src="index_split_003.html#id_Toc109270605"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17" class="chapter">
+      <navLabel>
+        <text>B. Disclosing an Intercepted Communication: 18 U.S.C. § 2511(1)(c)</text>
+      </navLabel>
+      <content src="index_split_003.html#id_Toc109270606"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18" class="chapter">
+      <navLabel>
+        <text>C. Using an Intercepted Communication: 18 U.S.C. § 2511(1)(d)</text>
+      </navLabel>
+      <content src="index_split_003.html#id_Toc109270607"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19" class="chapter">
+      <navLabel>
+        <text>D. Statutory Exceptions and Defenses</text>
+      </navLabel>
+      <content src="index_split_003.html#id_Toc109270608"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20" class="chapter">
+      <navLabel>
+        <text>E. Statutory Penalties</text>
+      </navLabel>
+      <content src="index_split_003.html#id_Toc109270609"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21" class="chapter">
+      <navLabel>
+        <text>Chapter 3:</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22" class="chapter">
+      <navLabel>
+        <text>Other Network Crime Statutes</text>
+      </navLabel>
+      <content src="index_split_004.html#id_Toc109270611"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23" class="chapter">
+      <navLabel>
+        <text>A. Unlawful Access to Stored Communications: 18 U.S.C. § 2701</text>
+      </navLabel>
+      <content src="index_split_004.html#id_Toc109270612"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24" class="chapter">
+      <navLabel>
+        <text>B. Identity Theft: 18 U.S.C. § 1028(a)(7)</text>
+      </navLabel>
+      <content src="index_split_004.html#id_Toc109270613"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25" class="chapter">
+      <navLabel>
+        <text>C. Aggravated Identity Theft: 18 U.S.C. § 1028A</text>
+      </navLabel>
+      <content src="index_split_004.html#id_Toc109270614"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26" class="chapter">
+      <navLabel>
+        <text>D. Access Device Fraud: 18 U.S.C. § 1029</text>
+      </navLabel>
+      <content src="index_split_004.html#id_Toc109270615"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27" class="chapter">
+      <navLabel>
+        <text>E. CAN-SPAM Act: 18 U.S.C. § 1037</text>
+      </navLabel>
+      <content src="index_split_004.html#id_Toc109270616"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28" class="chapter">
+      <navLabel>
+        <text>F. Wire Fraud: 18 U.S.C. § 1343</text>
+      </navLabel>
+      <content src="index_split_004.html#id_Toc109270617"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29" class="chapter">
+      <navLabel>
+        <text>G. Communication Interference: 18 U.S.C. § 1362</text>
+      </navLabel>
+      <content src="index_split_004.html#id_Toc109270618"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30" class="chapter">
+      <navLabel>
+        <text>Chapter 4:</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31" class="chapter">
+      <navLabel>
+        <text>Special Considerations</text>
+      </navLabel>
+      <content src="index_split_005.html#id_Toc109270620"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32" class="chapter">
+      <navLabel>
+        <text>A. Jurisdiction</text>
+      </navLabel>
+      <content src="index_split_005.html#id_Toc109270621"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33" class="chapter">
+      <navLabel>
+        <text>B. Venue</text>
+      </navLabel>
+      <content src="index_split_005.html#id_Toc109270622"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34" class="chapter">
+      <navLabel>
+        <text>C. Statute of Limitations</text>
+      </navLabel>
+      <content src="index_split_005.html#id_Toc109270623"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35" class="chapter">
+      <navLabel>
+        <text>D. Juveniles</text>
+      </navLabel>
+      <content src="index_split_005.html#id_Toc109270624"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36" class="chapter">
+      <navLabel>
+        <text>Chapter 5:</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37" class="chapter">
+      <navLabel>
+        <text>Sentencing</text>
+      </navLabel>
+      <content src="index_split_006.html#id_Toc109270626"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38" class="chapter">
+      <navLabel>
+        <text>A. Base Offense Levels</text>
+      </navLabel>
+      <content src="index_split_006.html#id_Toc109270627"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39" class="chapter">
+      <navLabel>
+        <text>B. Adjustments Under Section 2B1.1</text>
+      </navLabel>
+      <content src="index_split_006.html#id_Toc109270628"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40" class="chapter">
+      <navLabel>
+        <text>C. CAN-SPAM Act</text>
+      </navLabel>
+      <content src="index_split_006.html#id_Toc109270629"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41" class="chapter">
+      <navLabel>
+        <text>D. Wiretap Act</text>
+      </navLabel>
+      <content src="index_split_006.html#id_Toc109270630"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42" class="chapter">
+      <navLabel>
+        <text>E. Generally-Applicable Adjustments</text>
+      </navLabel>
+      <content src="index_split_006.html#id_Toc109270631"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43" class="chapter">
+      <navLabel>
+        <text>F. Conditions of Supervised Release</text>
+      </navLabel>
+      <content src="index_split_006.html#id_Toc109270632"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44" class="chapter">
+      <navLabel>
+        <text>Appendix A:</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45" class="chapter">
+      <navLabel>
+        <text>Unlawful Online Conduct and Applicable Federal Laws</text>
+      </navLabel>
+      <content src="index_split_007.html#id_Toc109270634"/>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46" class="chapter">
+      <navLabel>
+        <text>Appendix B:</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47" class="chapter">
+      <navLabel>
+        <text>Jury Instructions</text>
+      </navLabel>
+      <content src="index_split_008.html#id_Toc109270636"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48" class="chapter">
+      <navLabel>
+        <text>Appendix C:</text>
+      </navLabel>
+      <content src="index_split_019.html"/>
+    </navPoint>
+    <navPoint id="num_49" playOrder="49" class="chapter">
+      <navLabel>
+        <text>Best Practices for Working with Companies</text>
+      </navLabel>
+      <content src="index_split_019.html#id_Toc109270638"/>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50" class="chapter">
+      <navLabel>
+        <text>Appendix D:</text>
+      </navLabel>
+      <content src="index_split_020.html"/>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51" class="chapter">
+      <navLabel>
+        <text>Best Practices for Victim Response and Reporting</text>
+      </navLabel>
+      <content src="index_split_020.html#id_Toc109270640"/>
+    </navPoint>
+    <navPoint id="num_52" playOrder="52" class="chapter">
+      <navLabel>
+        <text>Appendix E:</text>
+      </navLabel>
+      <content src="index_split_021.html"/>
+    </navPoint>
+    <navPoint id="num_53" playOrder="53" class="chapter">
+      <navLabel>
+        <text>Network Crime Resources</text>
+      </navLabel>
+      <content src="index_split_021.html#id_Toc109270645"/>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54" class="chapter">
+      <navLabel>
+        <text>Table of Authorities</text>
+      </navLabel>
+      <content src="index_split_022.html"/>
+    </navPoint>
+    <navPoint id="num_55" playOrder="55" class="chapter">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="index_split_023.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

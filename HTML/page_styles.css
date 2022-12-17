@@ -1,0 +1,19 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+  
+}
+@media only screen and (min-width: 8.5in)  {
+  .calibre {
+   margin-left: 16em;
+  }
+}
+body {
+ max-width: 5in;
+}
+* {
+ hyphens: auto; 
+}
+table.appendixA td {
+  padding: 5px;
+}
