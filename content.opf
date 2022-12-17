@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Prosecuting Computer Crimes</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="H. Marshall Jarrett, Michael W. Bailie, Ed Hagen, Scott Eltringham">H. Marshall Jarrett, Michael W. Bailie, Ed Hagen, Scott Eltringham</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.36.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c1f990a7-2dd9-4420-bf66-c5f367338cec</dc:identifier>
+    <dc:date>2010-10-06T19:12:16+00:00</dc:date>
+    <dc:publisher>Office of Legal Education, Executive Office for United States Attorneys, United States Department of Justice</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">c390b410-4362-482d-812a-c821ee211dad</dc:identifier>
+    <meta name="calibre:timestamp" content="2022-07-20T23:43:16.817385+00:00"/>
+    <meta name="calibre:title_sort" content="Prosecuting Computer Crimes"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;H. Marshall Jarrett, Michael W. Bailie, Ed Hagen, Scott Eltringham&quot;: &quot;&quot;}"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id248" href="TOC.html" media-type="application/xhtml+xml"/>
+    <item id="id247" href="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id246" href="index_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id245" href="index_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="id244" href="index_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="id243" href="index_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="id242" href="index_split_006.html" media-type="application/xhtml+xml"/>
+    <item id="id241" href="index_split_007.html" media-type="application/xhtml+xml"/>
+    <item id="id240" href="index_split_008.html" media-type="application/xhtml+xml"/>
+    <item id="id239" href="index_split_009.html" media-type="application/xhtml+xml"/>
+    <item id="id238" href="index_split_010.html" media-type="application/xhtml+xml"/>
+    <item id="id237" href="index_split_011.html" media-type="application/xhtml+xml"/>
+    <item id="id236" href="index_split_012.html" media-type="application/xhtml+xml"/>
+    <item id="id235" href="index_split_013.html" media-type="application/xhtml+xml"/>
+    <item id="id234" href="index_split_014.html" media-type="application/xhtml+xml"/>
+    <item id="id233" href="index_split_015.html" media-type="application/xhtml+xml"/>
+    <item id="id232" href="index_split_016.html" media-type="application/xhtml+xml"/>
+    <item id="id231" href="index_split_017.html" media-type="application/xhtml+xml"/>
+    <item id="id230" href="index_split_018.html" media-type="application/xhtml+xml"/>
+    <item id="id229" href="index_split_019.html" media-type="application/xhtml+xml"/>
+    <item id="id228" href="index_split_020.html" media-type="application/xhtml+xml"/>
+    <item id="id227" href="index_split_021.html" media-type="application/xhtml+xml"/>
+    <item id="id226" href="index_split_022.html" media-type="application/xhtml+xml"/>
+    <item id="id225" href="index_split_023.html" media-type="application/xhtml+xml"/>
+    <item id="id224" href="index_split_024.html" media-type="application/xhtml+xml"/>
+    <item id="id223" href="index_split_025.html" media-type="application/xhtml+xml"/>
+    <item id="id222" href="index_split_026.html" media-type="application/xhtml+xml"/>
+    <item id="id221" href="index_split_027.html" media-type="application/xhtml+xml"/>
+    <item id="id220" href="index_split_028.html" media-type="application/xhtml+xml"/>
+    <item id="id219" href="index_split_029.html" media-type="application/xhtml+xml"/>
+    <item id="id218" href="index_split_030.html" media-type="application/xhtml+xml"/>
+    <item id="id217" href="index_split_031.html" media-type="application/xhtml+xml"/>
+    <item id="id216" href="index_split_032.html" media-type="application/xhtml+xml"/>
+    <item id="id215" href="index_split_033.html" media-type="application/xhtml+xml"/>
+    <item id="id214" href="index_split_034.html" media-type="application/xhtml+xml"/>
+    <item id="id213" href="index_split_035.html" media-type="application/xhtml+xml"/>
+    <item id="id212" href="index_split_036.html" media-type="application/xhtml+xml"/>
+    <item id="id211" href="index_split_037.html" media-type="application/xhtml+xml"/>
+    <item id="id210" href="index_split_038.html" media-type="application/xhtml+xml"/>
+    <item id="id29" href="index_split_039.html" media-type="application/xhtml+xml"/>
+    <item id="id28" href="index_split_040.html" media-type="application/xhtml+xml"/>
+    <item id="id27" href="index_split_041.html" media-type="application/xhtml+xml"/>
+    <item id="id26" href="index_split_042.html" media-type="application/xhtml+xml"/>
+    <item id="id25" href="index_split_043.html" media-type="application/xhtml+xml"/>
+    <item id="id24" href="index_split_044.html" media-type="application/xhtml+xml"/>
+    <item id="id23" href="index_split_045.html" media-type="application/xhtml+xml"/>
+    <item id="id22" href="index_split_046.html" media-type="application/xhtml+xml"/>
+    <item id="id21" href="index_split_047.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="font_embed" href="fonts.css" media-type="text/css"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="id18" href="images/DOJ.png" media-type="image/png"/>
+    <item id="id3" href="images/image1.png" media-type="image/png"/>
+    <item id="id4" href="images/image10.png" media-type="image/png"/>
+    <item id="id5" href="images/image11.png" media-type="image/png"/>
+    <item id="id6" href="images/image12.png" media-type="image/png"/>
+    <item id="id7" href="images/image13.png" media-type="image/png"/>
+    <item id="id8" href="images/image14.png" media-type="image/png"/>
+    <item id="id9" href="images/image15.png" media-type="image/png"/>
+    <item id="id10" href="images/image2.png" media-type="image/png"/>
+    <item id="id11" href="images/image3.png" media-type="image/png"/>
+    <item id="id12" href="images/image4.png" media-type="image/png"/>
+    <item id="id13" href="images/image5.png" media-type="image/png"/>
+    <item id="id14" href="images/image6.png" media-type="image/png"/>
+    <item id="id15" href="images/image7.png" media-type="image/png"/>
+    <item id="id16" href="images/image8.png" media-type="image/png"/>
+    <item id="id17" href="images/image9.png" media-type="image/png"/>
+    <item id="font14" href="fonts/Cantarell-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="id1" href="fonts/EB-Garamond-12-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="id2" href="fonts/EB-Garamond-12-Italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="id" href="fonts/EB-Garamond-12-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="font8" href="fonts/GilliusADFNo2-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="font11" href="fonts/GilliusADFNo2-Italic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="font10" href="fonts/GilliusADFNo2-Regular.otf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id248"/>
+    <itemref idref="id247"/>
+    <itemref idref="id246"/>
+    <itemref idref="id245"/>
+    <itemref idref="id244"/>
+    <itemref idref="id243"/>
+    <itemref idref="id242"/>
+    <itemref idref="id241"/>
+    <itemref idref="id240"/>
+    <itemref idref="id239"/>
+    <itemref idref="id238"/>
+    <itemref idref="id237"/>
+    <itemref idref="id236"/>
+    <itemref idref="id235"/>
+    <itemref idref="id234"/>
+    <itemref idref="id233"/>
+    <itemref idref="id232"/>
+    <itemref idref="id231"/>
+    <itemref idref="id230"/>
+    <itemref idref="id229"/>
+    <itemref idref="id228"/>
+    <itemref idref="id227"/>
+    <itemref idref="id226"/>
+    <itemref idref="id225"/>
+    <itemref idref="id224"/>
+    <itemref idref="id223"/>
+    <itemref idref="id222"/>
+    <itemref idref="id221"/>
+    <itemref idref="id220"/>
+    <itemref idref="id219"/>
+    <itemref idref="id218"/>
+    <itemref idref="id217"/>
+    <itemref idref="id216"/>
+    <itemref idref="id215"/>
+    <itemref idref="id214"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference type="toc" href="TOC.html#id_toc" title="Table of Contents"/>
+    <reference type="cover" href="index.xhtml" title="Cover"/>
+  </guide>
+</package>
